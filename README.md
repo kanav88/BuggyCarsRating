@@ -1,13 +1,14 @@
-# Selenium-Cucumber boilerplate
+# Buggy Cars Rating automation project
 
-A demo project using Selenium and Cucumber for browser automation, including several feature files, scenario's and step definitions. 
-This project can be used as a boilerplate for your own project!
+This is a java selenium cucumber automation project to automate the features of Buggy cars Rating app.
 
 
 ### Install
+* jdk
+* maven
 ##### After checkout:
 
-Download the version of Chromedriver matching your version of Google Chrome. Usually this is the latests version of chromedriver. 
+Download the version of Chromedriver matching your version of Google Chrome. Usually this is the latests version of chromedriver.(updated to version 89) 
 Replace the current chromedriver in the project with the new version.
 
 Run the project using the command line with:
